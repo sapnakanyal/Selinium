@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-11T08:28:27Z" name="Default suite" finished-at="2020-10-11T08:30:00Z" duration-ms="93149">
+    <groups>
+    </groups>
+    <test started-at="2020-10-11T08:28:27Z" name="Default test" finished-at="2020-10-11T08:30:00Z" duration-ms="93149">
+      <class name="tests.YoutubeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.YoutubeTest@7b36aa0c]" started-at="2020-10-11T08:28:27Z" name="setUp" finished-at="2020-10-11T08:28:34Z" duration-ms="6668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="youtubeSearchTest()[pri:0, instance:tests.YoutubeTest@7b36aa0c]" started-at="2020-10-11T08:28:34Z" name="youtubeSearchTest" finished-at="2020-10-11T08:29:59Z" duration-ms="85372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtubeSearchTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.YoutubeTest@7b36aa0c]" started-at="2020-10-11T08:29:59Z" name="tearDown" finished-at="2020-10-11T08:30:00Z" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.YoutubeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
